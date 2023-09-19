@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
     binaryTree.add(34)
     println("-------------------------------------------")
     binaryTree.printTree()
-    binaryTree.remove(100)
+    binaryTree.remove(43)
     println("-------------------------------------------")
     binaryTree.printTree()
 }
